@@ -8,3 +8,8 @@ if [[ "$1" == "--help" ]]; then
   echo "  --gpasswd     Remove user from group"
   exit
 fi
+
+
+
+
+вордлист генератор
